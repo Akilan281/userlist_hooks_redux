@@ -1,5 +1,5 @@
 import React from 'react'
-import './styles/adduser.css'
+import '../styles/adduser.css'
 import { useState, useEffect } from 'react'
 import { connect } from 'react-redux'
 import { addUsers } from '../../../../redux/actions/Action'
